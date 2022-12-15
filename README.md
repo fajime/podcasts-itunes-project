@@ -8,7 +8,7 @@ Es necesario tener instaladas las siguientes herramientas en el entorno local de
 ## Los pasos para ejecutar esta prueba son los siguientes:
 
 1. Descargar el proyecto con Git del repositorio:
-   `git clone https://github.com/fajime/podcast-project.git`
+   `git clone https://github.com/fajime/podcasts-itunes-project.git`
 
 2. Ubicarse en el directorio raiz del proyecto:
    `cd podcast-itunes-project`
